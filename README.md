@@ -1,4 +1,6 @@
 # firebase
 Learning about Firebase~
 
-Firebase helps you build real time apps with just front-end code!
+A basic chat app made using just Firebase and Javascript!
+
+Firebase is a service that helps you write just front-end code while it handles the backend!
