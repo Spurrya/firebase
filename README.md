@@ -1,6 +1,3 @@
-# firebase
-Learning about Firebase~
+# Firebase
 
-A basic chat app made using just Firebase and Javascript!
-
-Firebase is a service that helps you write just front-end code while it handles the backend!
+A simple chat application build using firebase, a product that takes care of the backend and the database.
